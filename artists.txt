@@ -1,0 +1,20 @@
+
+ID: 567WWWRR@@
+Name: Mrunal
+Address: mm|ss|ss
+Birthdate: 29-12-2001
+Bio: It seems you've encountered an issue or error, but I would need more specific information about the problem
+Occupations: singer, composer
+Genres: pop, jazz
+Awards:2022,best award for me
+
+ID: 567WWWEE@#
+Name: Riya
+Address: mum|banglore|india
+Birthdate: 27-11-2007
+Bio: hey It seems you've encountered an issue or error, but I would need more specific information about the problem
+Occupations: singer, writer, composer
+Genres: pop, classical
+Awards:2021, Best award for singer 2021
+
+
